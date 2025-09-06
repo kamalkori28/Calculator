@@ -1,10 +1,39 @@
-**Create a simple calculator with Streamlit**
-This is a simple calculator application built using Streamlit. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division, and modulo.
+# 🧮 Simple Calculator with Streamlit
 
-**Technologies Used:**
-- Python
-- Streamlit
-- Modular arithmetic functions
+A **minimal and interactive calculator** built using [Streamlit](https://streamlit.io/).  
+This web-based tool lets you perform basic arithmetic operations with a simple and user-friendly interface.
 
-**Current Status**
-There is no styling added in the current stage but will be added in the future.
+---
+
+## 🚀 Features
+
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 🧩 Modulo
+
+---
+
+## 🛠️ Technologies Used
+
+- 🐍 Python  
+- 🌐 Streamlit  
+- 📦 Modular arithmetic functions (custom Python modules)
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/streamlit-calculator.git
+
+# Navigate into the project directory
+cd Calculator
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run app.py
