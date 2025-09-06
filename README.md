@@ -37,3 +37,9 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+
+
+## 📌 Current Status
+
+🚧 Styling is not yet implemented — focus is currently on core functionality.
+🎨 UI enhancements and themes will be added in future updates!
