@@ -1,2 +1,2 @@
-def mod(a,b):
+def modulo(a,b):
     return a%b

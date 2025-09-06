@@ -1,12 +1,11 @@
 from src.add import addition
-from src.subtract import subtraction
-from src.divide import divide
-from src.multi import multi
-from src.mod import mod 
+from src.sub import subtraction
+from src.div import divide
+from src.mul import multiplication
+from src.mod import modulo
 import streamlit as st
 
 st.title("Calculator")
-
 
 a = st.number_input("Enter the First Number : ", value=0)
 b = st.number_input("Enter the Second Number : ", value=0)
@@ -24,8 +23,8 @@ if st.button("Calculate"):
     elif option == "Divide":
         result = divide(a,b)
     elif option == "Multiplication":
-        result= multi(a,b) 
+        result= multiplication(a,b) 
     else :
-        result = mod(a,b)
+        result = modulo(a,b)
         
     st.write(f"Result : {result}")
