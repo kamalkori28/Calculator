@@ -7,10 +7,6 @@
 
 ---
 
-## 📍 Live Demo
-
-👉 **[Visit Now](https://)**
-
 ---
 
 ## 📸 Screenshots
