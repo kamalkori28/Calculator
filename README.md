@@ -7,16 +7,11 @@
 
 ---
 
----
-
 ## 📸 Screenshots
 
 | Desktop View |
 |--------------|
 | <img src="./screenshots/01_Home.png" alt="Homepage Screenshot" width="100%" /> |
-
----
-
 
 ---
 
