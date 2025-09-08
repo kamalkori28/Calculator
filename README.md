@@ -1,4 +1,9 @@
-<h1 align="center">🧮 Simple Calculator with Streamlit</h1>
+<h1 align="center">🧮 Simple Calculator</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kamal+Kori;Created+with+Streamlit+%7C+Python" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   A <strong>minimal and interactive calculator</strong> built using <a href="https://streamlit.io/">Streamlit</a>.<br>
